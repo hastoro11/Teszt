@@ -1,0 +1,240 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "hivatkozas": "1Sám 12",
+        "forma": "json"
+    },
+    "valasz": {
+        "versek": [
+            {
+                "szoveg": "Azt mondta erre Sámuel egész Izraelnek: »Íme, meghallgattam szavatokat mindabban, amit mondtatok nekem, s királyt rendeltem fölétek,",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Sámuel búcsúbeszéde a deuteronomista mű [D] címzettjeinek (Kr. e. 6. sz.) szól."
+                    }
+                ],
+                "hely": {
+                    "gepi": 10901200100,
+                    "szep": "1Sám 12,1"
+                }
+            },
+            {
+                "szoveg": "s a király immár előttetek jár. Én azonban megöregedtem, s megőszültem, fiaim is közöttetek vannak. Íme, előttetek jártam ifjúságomtól kezdve mind a mai napig, itt vagyok,",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 10901200200,
+                    "szep": "1Sám 12,2"
+                }
+            },
+            {
+                "szoveg": "nyilatkozzatok rólam az Úr előtt és felkentje előtt, elvettem-e valakinek a szamarát? Ha erőszakoskodtam valakivel vagy elnyomtam valakit, ha bárki kezéből ajándékot fogadtam el, hogy ügyében szemet hunyjak: visszaadom nektek.«",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 10901200300,
+                    "szep": "1Sám 12,3"
+                }
+            },
+            {
+                "szoveg": "Ők erre azt mondták: »Nem erőszakoskodtál rajtunk, nem nyomtál el minket, s nem fogadtál el senki kezéből semmit sem.«",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 10901200400,
+                    "szep": "1Sám 12,4"
+                }
+            },
+            {
+                "szoveg": "Erre ő azt mondta nekik: »Tanúm tehát az Úr veletek szemben és tanúm az ő felkentje ezen a napon, hogy semmit sem találtatok kezemben!« Ők azt mondták rá: »Tanúd!«<br>",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "»Semmit sem találtatok a kezemben«: ti. semmi megvesztegető ajándékot."
+                    }
+                ],
+                "hely": {
+                    "gepi": 10901200500,
+                    "szep": "1Sám 12,5"
+                }
+            },
+            {
+                "szoveg": "Majd azt mondta Sámuel a népnek: »Az Úr tehát a tanúm, aki Mózest és Áront rendelte és aki kihozta atyáinkat Egyiptom földjéről.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 10901200600,
+                    "szep": "1Sám 12,6"
+                }
+            },
+            {
+                "szoveg": "Nos tehát álljatok elő, hadd szálljak perbe veletek az Úr előtt, az Úr mindazon irgalmassága ügyében, amelyet veletek s atyáitokkal cselekedett.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 10901200700,
+                    "szep": "1Sám 12,7"
+                }
+            },
+            {
+                "szoveg": "Tudjátok miként ment be Jákob Egyiptomba, s miként kiáltottak az Úrhoz atyáitok. Akkor az Úr elküldte Mózest és Áront, s kihozta atyáitokat Egyiptomból és letelepítette őket ezen a helyen.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 10901200800,
+                    "szep": "1Sám 12,8"
+                }
+            },
+            {
+                "szoveg": "Ám ők megfeledkeztek az Úrról, Istenükről, s azért ő kiszolgáltatta őket Siserának, a hácori hadvezérnek a kezébe, a filiszteusoknak a kezébe, valamint Moáb királyának a kezébe, s azok hadakoztak ellenük.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 10901200900,
+                    "szep": "1Sám 12,9"
+                }
+            },
+            {
+                "szoveg": "Akkor aztán az Úrhoz kiáltottak, s azt mondták: Vétkeztünk, mert elhagytuk az Urat és a Baáloknak, s az Astartéknek szolgáltunk; most azonban szabadíts meg minket ellenségeink kezéből és szolgálunk neked.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 10901201000,
+                    "szep": "1Sám 12,10"
+                }
+            },
+            {
+                "szoveg": "El is küldte az Úr Jerobaált, Bádánt, Jeftét és Sámuelt, s kiszabadított titeket köröskörül ellenségeitek kezéből, s biztonságban laktatok.<br>",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "»Bádán« helyett a görög és a szír szövegben Bárák áll."
+                    }
+                ],
+                "hely": {
+                    "gepi": 10901201100,
+                    "szep": "1Sám 12,11"
+                }
+            },
+            {
+                "szoveg": "Mindazonáltal, amikor láttátok, hogy Naás, Ammon fiainak királya ellenetek vonult, azt mondtátok nekem: ‘Nem! Király uralkodjék rajtunk’ – holott az Úr, a ti Istenetek uralkodott rajtatok.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 10901201200,
+                    "szep": "1Sám 12,12"
+                }
+            },
+            {
+                "szoveg": "Most tehát itt van királyotok, akit választottatok és kértetek, íme, az Úr királyt adott nektek!",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Amíg a király Istent szolgálja, addig a szövetség áldásait közvetíti a nép számára."
+                    }
+                ],
+                "hely": {
+                    "gepi": 10901201300,
+                    "szep": "1Sám 12,13"
+                }
+            },
+            {
+                "szoveg": "Ha félitek az Urat, s szolgáltok neki, s hallgattok szavára, s nem szegültök ellen az Úr parancsának, akkor ti is, meg királyotok is, aki uralkodik rajtatok, követni fogjátok az Urat, a ti Isteneteket.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 10901201400,
+                    "szep": "1Sám 12,14"
+                }
+            },
+            {
+                "szoveg": "Ha azonban nem hallgattok az Úr szavára, hanem ellenszegültök szavának, akkor éppúgy rajtatok lesz az Úr keze, mint atyáitokon.<br>",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 10901201500,
+                    "szep": "1Sám 12,15"
+                }
+            },
+            {
+                "szoveg": "Most azonban csak álljatok meg és lássátok azt a nagy dolgot, amelyet az Úr szemetek láttára művelni fog.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 10901201600,
+                    "szep": "1Sám 12,16"
+                }
+            },
+            {
+                "szoveg": "Nemde, ma búzaaratás van? Segítségül fogom hívni az Urat, és ő mennydörgést és esőt támaszt, s így megtudjátok és meglátjátok, hogy nagy gonoszságot követtetek el az Úr színe előtt, amikor királyt kértetek magatoknak.«<br>",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Aratás idején Izraelben nagyon ritka az eső."
+                    }
+                ],
+                "hely": {
+                    "gepi": 10901201700,
+                    "szep": "1Sám 12,17"
+                }
+            },
+            {
+                "szoveg": "Erre Sámuel az Úrhoz kiáltott és az Úr mennydörgést és esőt támasztott azon a napon.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 10901201800,
+                    "szep": "1Sám 12,18"
+                }
+            },
+            {
+                "szoveg": "Nagyon nagy félelem szállta meg erre az egész népet az Úr előtt és Sámuel előtt, és az egész nép azt mondta Sámuelnek: »Imádkozz szolgáidért az Úrhoz, a te Istenedhez, hogy meg ne haljunk, mert oly sok bűnünket azzal a gonoszsággal is tetéztük, hogy királyt kértünk magunknak.«<br>",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 10901201900,
+                    "szep": "1Sám 12,19"
+                }
+            },
+            {
+                "szoveg": "Azt mondta erre Sámuel a népnek: »Ne féljetek! Elkövettétek ugyan mindezt a gonoszságot, csak ne távozzatok az Úr nyomából, hanem szolgáljatok az Úrnak egész szívetekből,",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 10901202000,
+                    "szep": "1Sám 12,20"
+                }
+            },
+            {
+                "szoveg": "s ne forduljatok a hiábavalóságok felé, amelyek nem használnak nektek, s nem szabadítanak meg titeket, mert hiábavalóságok.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 10901202100,
+                    "szep": "1Sám 12,21"
+                }
+            },
+            {
+                "szoveg": "Akkor az Úr, tekintettel az ő nagy nevére, nem hagyja el népét, hiszen megesküdött az Úr, hogy népévé tesz titeket.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 10901202200,
+                    "szep": "1Sám 12,22"
+                }
+            },
+            {
+                "szoveg": "Tőlem pedig távol legyen az a vétek az Úr ellen, hogy megszűnjek imádkozni értetek: sőt tanítani foglak titeket a jó és helyes útra.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 10901202300,
+                    "szep": "1Sám 12,23"
+                }
+            },
+            {
+                "szoveg": "Féljétek tehát az Urat, s szolgáljatok neki hűségesen egész szívetekből, hisz láttátok azokat a nagyszerű dolgokat, amelyeket közöttetek művelt.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 10901202400,
+                    "szep": "1Sám 12,24"
+                }
+            },
+            {
+                "szoveg": "Ha azonban a gonoszságban tartotok ki, akkor ti is és a királyotok is egyaránt elvesztek.«<br>",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 10901202500,
+                    "szep": "1Sám 12,25"
+                }
+            }
+        ],
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        }
+    }
+}

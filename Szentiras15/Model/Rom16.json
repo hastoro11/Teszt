@@ -1,0 +1,241 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "hivatkozas": "Róm 16",
+        "forma": "json"
+    },
+    "valasz": {
+        "versek": [
+            {
+                "szoveg": "Ajánlom nektek nőtestvérünket, Fébét, aki a kenkhreai gyülekezet szolgálója:",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601600100,
+                    "szep": "Róm 16,1"
+                }
+            },
+            {
+                "szoveg": "fogadjátok be őt az Úrban a szentekhez illően, és álljatok mellé minden olyan ügyben, amelyben szüksége van rátok, mert ő is sokaknak lett pártfogója, nekem magamnak is.<br>",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601600200,
+                    "szep": "Róm 16,2"
+                }
+            },
+            {
+                "szoveg": "Köszöntsétek Priszkát és Akvilát, akik munkatársaim Krisztus Jézusban!",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601600300,
+                    "szep": "Róm 16,3"
+                }
+            },
+            {
+                "szoveg": "Ők értem saját életüket kockáztatták, és nekik nemcsak én vagyok hálás, hanem a népek valamennyi gyülekezete is.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601600400,
+                    "szep": "Róm 16,4"
+                }
+            },
+            {
+                "szoveg": "Köszöntsétek a házukban lévő gyülekezetet is! Köszöntsétek az én szeretett Epainetoszomat, aki Ázsia tartományának zsengéje Krisztusban!",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "zsengéje: Az első keresztyén hívő Ázsia tartományban, vö. még az ApCsel 2,9 jegyzetével"
+                    }
+                ],
+                "hely": {
+                    "gepi": 20601600500,
+                    "szep": "Róm 16,5"
+                }
+            },
+            {
+                "szoveg": "Köszöntsétek Máriát, aki sokat fáradozott értetek!",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601600600,
+                    "szep": "Róm 16,6"
+                }
+            },
+            {
+                "szoveg": "Köszöntsétek Andronikoszt és Júniát, rokonaimat és fogolytársaimat, akiket nagyra becsülnek az apostolok körében, akik nálam is előbb jutottak hitre Krisztusban!",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601600700,
+                    "szep": "Róm 16,7"
+                }
+            },
+            {
+                "szoveg": "Köszöntsétek az Úrban szeretett Ampliátuszomat!",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601600800,
+                    "szep": "Róm 16,8"
+                }
+            },
+            {
+                "szoveg": "Köszöntsétek Urbánuszt, aki munkatársunk Krisztusban, és az én szeretett Sztakhiszomat!",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601600900,
+                    "szep": "Róm 16,9"
+                }
+            },
+            {
+                "szoveg": "Köszöntsétek Apellészt, Krisztus kipróbált emberét! Köszöntsétek az Arisztobulosz háza népéből valókat!",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601601000,
+                    "szep": "Róm 16,10"
+                }
+            },
+            {
+                "szoveg": "Köszöntsétek Heródiónt, az én rokonomat! Köszöntsétek a Narcisszusz háza népéből azokat, akik az Úrban hisznek!",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601601100,
+                    "szep": "Róm 16,11"
+                }
+            },
+            {
+                "szoveg": "Köszöntsétek Trifainát és Trifószát, akik fáradoznak az Úrban! Köszöntsétek a szeretett Persziszt, aki sokat fáradozott az Úrban!",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601601200,
+                    "szep": "Róm 16,12"
+                }
+            },
+            {
+                "szoveg": "Köszöntsétek az Úrban kiválasztott Rúfuszt és anyját, aki nekem is anyám!",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601601300,
+                    "szep": "Róm 16,13"
+                }
+            },
+            {
+                "szoveg": "Köszöntsétek Aszinkritoszt, Flegónt, Hermészt, Patrobászt, Hermászt és a velük lévő testvéreket!",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601601400,
+                    "szep": "Róm 16,14"
+                }
+            },
+            {
+                "szoveg": "Köszöntsétek Filologoszt és Júliát, Néreuszt és nőtestvérét, valamint Olimpászt és a velük lévő szenteket mind!",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601601500,
+                    "szep": "Róm 16,15"
+                }
+            },
+            {
+                "szoveg": "Köszöntsétek egymást szent csókkal! Köszönt titeket Krisztus minden gyülekezete.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601601600,
+                    "szep": "Róm 16,16"
+                }
+            },
+            {
+                "szoveg": "Kérlek titeket, testvéreim, tartsátok szemmel azokat, akik szakadásokat és botránkozásokat okoznak azzal a tanítással szemben, amit tanultatok. Térjetek ki előlük!",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601601700,
+                    "szep": "Róm 16,17"
+                }
+            },
+            {
+                "szoveg": "Mert az ilyenek nem a mi Urunknak, Krisztusnak szolgálnak, hanem a saját hasuknak, és szép szóval, ékesszólással megcsalják a jóhiszeműek szívét.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601601800,
+                    "szep": "Róm 16,18"
+                }
+            },
+            {
+                "szoveg": "Hiszen a ti engedelmességetek híre eljutott mindenkihez, nektek tehát örülök. De szeretném, ha bölcsek lennétek a jóra, és képtelenek a rosszra.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601601900,
+                    "szep": "Róm 16,19"
+                }
+            },
+            {
+                "szoveg": "A békesség Istene pedig összezúzza a Sátánt lábatok alatt hamarosan. A mi Urunk Jézus Krisztus kegyelme legyen veletek!",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601602000,
+                    "szep": "Róm 16,20"
+                }
+            },
+            {
+                "szoveg": "Köszönt titeket munkatársam, Timóteus, valamint rokonaim: Lúciusz, Jászón és Szószipatrosz.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601602100,
+                    "szep": "Róm 16,21"
+                }
+            },
+            {
+                "szoveg": "Köszöntelek titeket az Úrban én, Terciusz, aki leírtam ezt a levelet.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601602200,
+                    "szep": "Róm 16,22"
+                }
+            },
+            {
+                "szoveg": "Köszönt titeket Gájusz, aki vendéglátóm nekem és az egész gyülekezetnek. Köszönt titeket Erasztosz, a város számvevője és Kvártusz testvérünk.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601602300,
+                    "szep": "Róm 16,23"
+                }
+            },
+            {
+                "szoveg": "A mi Urunk Jézus Krisztus kegyelme legyen mindnyájatokkal!",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Ez a vers egyes kéziratokban nem található"
+                    }
+                ],
+                "hely": {
+                    "gepi": 20601602400,
+                    "szep": "Róm 16,24"
+                }
+            },
+            {
+                "szoveg": "Akinek pedig van hatalma arra, hogy megerősítsen titeket az én evangéliumom és a Jézus Krisztusról szóló üzenet szerint – ama titok kinyilatkoztatása folytán, amely örök időkön át kimondatlan maradt,",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601602500,
+                    "szep": "Róm 16,25"
+                }
+            },
+            {
+                "szoveg": "de most nyilvánvalóvá lett, és az örök Isten rendelkezése szerint a próféták írásai által tudtul adatott minden népnek, hogy eljussanak a hit engedelmességére –,",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601602600,
+                    "szep": "Róm 16,26"
+                }
+            },
+            {
+                "szoveg": "az egyedül bölcs Istennek legyen dicsőség Jézus Krisztus által örökkön-örökké. Ámen.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 20601602700,
+                    "szep": "Róm 16,27"
+                }
+            }
+        ],
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        }
+    }
+}

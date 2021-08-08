@@ -11,6 +11,14 @@ struct ContentView: View {
     var body: some View {
         Text("Hello, world!")
             .padding()
+            .task {
+                do {
+                let idezet = try await WebService.shared.fetch(book: "Róm", chapter: 16)
+                    print(idezet.keres, idezet.valasz.versek.count)
+                } catch {
+                    print("Error: ", error)
+                }
+            }
     }
 }
 
