@@ -16,6 +16,9 @@
 		2163F88826C003CF0010D506 /* Rom16.json in Resources */ = {isa = PBXBuildFile; fileRef = 2163F88726C003CF0010D506 /* Rom16.json */; };
 		2163F88C26C0057B0010D506 /* 1Sam12.json in Resources */ = {isa = PBXBuildFile; fileRef = 2163F88B26C0057B0010D506 /* 1Sam12.json */; };
 		2163F88E26C00BCD0010D506 /* SzentirasError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2163F88D26C00BCD0010D506 /* SzentirasError.swift */; };
+		2163F89026C053810010D506 /* SearchResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2163F88F26C053810010D506 /* SearchResult.swift */; };
+		21E3464D26C6BB9B001F438A /* SearchBuszke.json in Resources */ = {isa = PBXBuildFile; fileRef = 21E3464C26C6BB9B001F438A /* SearchBuszke.json */; };
+		21E3465326C6BC5D001F438A /* SearchTengeri.json in Resources */ = {isa = PBXBuildFile; fileRef = 21E3465226C6BC5D001F438A /* SearchTengeri.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +32,9 @@
 		2163F88726C003CF0010D506 /* Rom16.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Rom16.json; sourceTree = "<group>"; };
 		2163F88B26C0057B0010D506 /* 1Sam12.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 1Sam12.json; sourceTree = "<group>"; };
 		2163F88D26C00BCD0010D506 /* SzentirasError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SzentirasError.swift; sourceTree = "<group>"; };
+		2163F88F26C053810010D506 /* SearchResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResult.swift; sourceTree = "<group>"; };
+		21E3464C26C6BB9B001F438A /* SearchBuszke.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = SearchBuszke.json; sourceTree = "<group>"; };
+		21E3465226C6BC5D001F438A /* SearchTengeri.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = SearchTengeri.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,9 +97,12 @@
 			isa = PBXGroup;
 			children = (
 				2163F88526C0033D0010D506 /* Idezet.swift */,
+				21E3464C26C6BB9B001F438A /* SearchBuszke.json */,
+				21E3465226C6BC5D001F438A /* SearchTengeri.json */,
 				2163F88726C003CF0010D506 /* Rom16.json */,
 				2163F88B26C0057B0010D506 /* 1Sam12.json */,
 				2163F88D26C00BCD0010D506 /* SzentirasError.swift */,
+				2163F88F26C053810010D506 /* SearchResult.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -158,8 +167,10 @@
 			files = (
 				2163F88C26C0057B0010D506 /* 1Sam12.json in Resources */,
 				2163F87B26C000290010D506 /* Preview Assets.xcassets in Resources */,
+				21E3465326C6BC5D001F438A /* SearchTengeri.json in Resources */,
 				2163F87826C000290010D506 /* Assets.xcassets in Resources */,
 				2163F88826C003CF0010D506 /* Rom16.json in Resources */,
+				21E3464D26C6BB9B001F438A /* SearchBuszke.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -175,6 +186,7 @@
 				2163F88326C001300010D506 /* WebService.swift in Sources */,
 				2163F87626C000270010D506 /* ContentView.swift in Sources */,
 				2163F87426C000270010D506 /* Szentiras15App.swift in Sources */,
+				2163F89026C053810010D506 /* SearchResult.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -305,6 +317,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Szentiras15/Preview Content\"";
+				DEVELOPMENT_TEAM = CRKA8HKC5M;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -334,6 +347,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Szentiras15/Preview Content\"";
+				DEVELOPMENT_TEAM = CRKA8HKC5M;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
